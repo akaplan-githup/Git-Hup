@@ -6,7 +6,7 @@ public class Examples_Palindromik {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
 
-        System.out.print("Check Palindromik: ");
+        System.out.print("Check Palindromik:  ");
         int number =scanner.nextInt();
 
         if(number <10){rakam(number);}
